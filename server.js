@@ -38,4 +38,3 @@ app.listen(port, () => {
     console.log(`users API running at http://localhost:${port}`);
 });
 
-
